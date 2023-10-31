@@ -2,7 +2,7 @@
 
 Submitted by: **Sojal Thapa**
 
-**Task Upto date** is an app that ... [TODO] 
+**Task Upto date** is an app that keep tracks of the activites and you can sort them or delete them when completed. 
 
 Time spent: **15** hours spent in total
 
@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 - [x] App displays a list of tasks
 - [x] Users can add tasks to the list
 - [x] Session persists when application is closed and relaunched (tasks dont get deleted when closing app) 
-  - [ ] Note: You have to quit the app, not minimize it, in order to see the persistence.
+  - [x] Note: You have to quit the app, not minimize it, in order to see the persistence.
 - [x] Tasks can be deleted
 - [x] Users have a calendar view via navigation controller that displays tasks    
 
